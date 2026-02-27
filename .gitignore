@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Build artifacts
+blacklys-cpp/build*/
+blacklys-cpp/build.log
+blacklys-cpp/build_log.txt
+blacklys-cpp/build_verbose.txt
+blacklys-cpp/libs/
+build_log.txt
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store

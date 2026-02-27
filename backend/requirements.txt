@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+rawpy
+opencv-python-headless
+numpy
+fpdf2
